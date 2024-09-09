@@ -10,9 +10,9 @@ RetroArch is a versatile, all-in-one emulator that allows users to play retro ga
 
 Before understanding the RetroArch BIOS Pack, it’s essential to clarify what BIOS is in the context of emulation. BIOS, or Basic Input/Output System, is a firmware component embedded in many hardware devices, including game consoles. It provides a low-level interface between the system’s hardware and software, facilitating the startup process and basic functions of the device.
 
-In the case of emulation, BIOS files are crucial for emulating certain consoles or arcade systems accurately. Without these BIOS files, emulators may not function properly, or worse, some games may fail to load altogether. This is where the RetroArch BIOS Pack comes into play—a collection of BIOS files for various systems bundled together, making it easier for users to set up and configure RetroArch.
+In the case of emulation, BIOS files are crucial for emulating certain consoles or arcade systems accurately. Without these BIOS files, emulators may not function properly, or worse, some games may fail to load altogether. This is where the RetroArch  comes into play—a collection of BIOS files for various systems bundled together, making it easier for users to set up and configure RetroArch.
 
-## Why Do You Need a BIOS Pack?
+## Why Do You Need RetroArch BIOS Pack?
 
 Many emulators, especially for more modern consoles like the PlayStation or Sega Saturn, require a BIOS file to mimic the behavior of the original hardware. Although some emulators can bypass this by using software-based alternatives, using the official BIOS files is often more accurate and provides better compatibility.
 
@@ -54,8 +54,8 @@ Once you have downloaded the RetroArch BIOS Pack, follow these steps:
 - Go to Directory and locate the System/BIOS directory. This is the folder where your BIOS files need to be placed.
 - If the directory is not set, you can manually configure it by selecting a folder on your system where you want to store the BIOS files.
 
-### Step 2: Extract the BIOS Pack
-- Extract the downloaded BIOS pack using a tool like WinRAR or 7-Zip.
+### Step 2: Extract the RetroArch BIOS Pack
+- Extract the downloaded RetroArch BIOS Pack using a tool like WinRAR or 7-Zip.
 - Inside the folder, you should find several BIOS files for various consoles, typically named according to the system they belong to (e.g., `scph1001.bin` for PlayStation).
 
 ### Step 3: Place BIOS Files in the System Folder
@@ -97,7 +97,7 @@ BIOS files often differ by region (e.g., NTSC for North America, PAL for Europe)
 
 BIOS files are considered proprietary software, and distributing them without permission is a legal gray area. To remain within legal boundaries, it’s recommended to only use BIOS files from consoles that you legally own. RetroArch developers do not provide BIOS files, so users must source them independently.
 
-While there are communities and forums where people share BIOS packs, be aware of the risks and the potential legality issues involved in downloading these files.
+While there are communities and forums where people share RetroArch BIOS Packs, be aware of the risks and the potential legality issues involved in downloading these files.
 
 ## Conclusion
 
